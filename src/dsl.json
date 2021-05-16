@@ -1,0 +1,78 @@
+[
+	{
+		"type": "kiwi",
+		"style": {},
+		"className": "container",
+		"key": "895628935",
+		"children": [
+			{
+				"type": "kiwi",
+				"className": "row",
+				"style": {},
+				"key": "0934737609347690347",
+				"children": [
+					{
+						"type": "kiwi",
+						"style": {
+							"backgroundColor": "#666",
+							"borderBottom": "1px solid #fff",
+							"padding": "20px 0 20px 0"
+						},
+						"className": "col-md-12",
+						"key": "895628935",
+						"children": [
+							{
+								"type": "carrot",
+								"textContent": "Menu"
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "kiwi",
+				"className": "row",
+				"style": {
+					"marginTop": 15
+				},
+				"key": "0934737609347690347",
+				"children": [
+					{
+						"type": "kiwi",
+						"style": {
+							"backgroundColor": "#f7f7f7",
+							"border": "1px solid #ddd",
+							"borderRadius": 5,
+							"padding": 5,
+							"height": 250
+						},
+						"className": "col-md-4",
+						"children": [
+							{
+								"type": "carrot",
+								"textContent": "content"
+							}
+						]
+					},
+					{
+						"type": "kiwi",
+						"style": {
+							"backgroundColor": "#eee",
+							"border": "1px solid #666",
+							"borderRadius": 5,
+							"padding": 5,
+							"height": 250
+						},
+						"className": "col-md-8",
+						"children": [
+							{
+								"type": "carrot",
+								"textContent": "Nav sideBar"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

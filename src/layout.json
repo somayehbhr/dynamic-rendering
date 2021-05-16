@@ -1,0 +1,125 @@
+[
+  {
+    "type": "div",
+    "style": {},
+    "className": "container my-container",
+    "key": "895628935",
+    "children":[
+      {
+        "type": "div",
+        "style": {},
+        "key": "HJSAKCHSAKLCLSJZclj",
+        "className": "row",
+        "children": [
+          {
+            "type": "div",
+            "style": {},
+            "key": "aoiuesoiutfosdjf",
+            "className": "col-md-8",
+            "children": [
+              {
+                "type": "text",
+                "key": "jhgzxcjgzxcjg",
+                "textContent": ".col-md-8"
+              }
+            ]
+          },
+          {
+            "type": "div",
+            "style": {},
+            "key": "bdfb7df09b7df0",
+            "className": "col-6 col-md-4",
+            "children": [
+              {
+                "type": "text",
+                "key": "safljfljzsdlfjl",
+                "textContent": ".col-6 .col-md-4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "div",
+        "style": {},
+        "key": "bdfb7df09b7df0",
+        "className": "row row-cols-4",
+        "children": [
+          {
+            "type": "div",
+            "style": {},
+            "key": "bvxdfhbcgnvchn",
+            "className": "col-6 col-md-4",
+            "children": [
+              {
+                "type": "text",
+                "key": "mbnmcncvcg",
+                "textContent": ".col-md-8"
+              }
+            ]
+          },
+          {
+            "type": "div",
+            "style": {},
+            "key": "bdfb7dfzvxxcv09b7df0",
+            "className": "col-6 col-md-4",
+            "children": [
+              {
+                "type": "text",
+                "key": "fnhghmhmc",
+                "textContent": ".col-6 .col-md-4"
+              }
+            ]
+          },
+          {
+            "type": "div",
+            "style": {},
+            "key": "fgxhbfhxftjfgj",
+            "className": "col-6 col-md-4",
+            "children": [
+              {
+                "type": "text",
+                "key": "gnxxfgjmghjmchv",
+                "textContent": ".col-6 .col-md-4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "div",
+        "style": {},
+        "key": "gfhgchxfghfgh",
+        "className": "row row-cols-4",
+        "children": [
+          {
+            "type": "div",
+            "style": {},
+            "key": "fbdfhfgjgfj",
+            "className": "col-6",
+            "children": [
+              {
+                "type": "text",
+                "key": "vcbcvblkjzdbf",
+                "textContent": ".col-md-8"
+              }
+            ]
+          },
+          {
+            "type": "div",
+            "style": {},
+            "key": "fcbfgnxn",
+            "className": "col-6",
+            "children": [
+              {
+                "type": "text",
+                "key": "fbgkljxflvlzjdfx",
+                "textContent": ".col-6 .col-md-4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
